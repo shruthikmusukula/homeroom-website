@@ -56,10 +56,11 @@ function App() {
                 HomeRoom
               </CardTitle>
               <CardText >
-                  <span>
+                <span>
                 During such a tumltuous time for the world, it can be difficult to manage the seemingly larger workload that we all face.
                 Introducing HomeRoom, a simple productivity extension that can help students of all ages and educators with developing the
-                simple skill of time management. Many existing platforms, such as Trello,
+                simple skill of time management. Many existing platforms, such as Trello, contain complex user interfaces. HomeRoom solves this 
+                issue by coming in the form of a Chrome Extension, allowing for ease of access and a simple user interface.
                 </span>
               </CardText>
             </Card>
