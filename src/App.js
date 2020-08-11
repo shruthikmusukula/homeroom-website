@@ -34,7 +34,8 @@ function App() {
             <a href="#todo">To Do</a>
             <a href="#classtasks">Class Tasks</a>
             <a href="#pomodoro">Pomodoro Timer</a>
-            <a href="#blocker">Website Blocker</a>
+            <a href="#features">Upcoming Features</a>
+            <a href="https://github.com/shruthikmusukula/productivity-extension-website">Github Code</a>
           </Navigation>
         </Header>
 
@@ -63,14 +64,15 @@ function App() {
                     During such a tumultuous time for the world, it can be
                     difficult to manage the seemingly larger workload that we
                     all face.
-                    <h3 class="enter-homeroom">Enter HomeRoom</h3>A simple
+                    <h3>Enter HomeRoom</h3>A simple
                     productivity extension that can help students of all ages
                     and educators with developing the simple skill of time
                     management. Many existing platforms, such as Trello, contain
                     complex user interfaces. HomeRoom solves this issue by
                     coming in the form of a Chrome Extension, allowing for ease
                     of access. All your data can be connected with your Google
-                    account Feel free to explore some of the extensions main
+                    account. The extension will be live by Monday, August 17th on
+                    the Chrome Extension store. Feel free to explore some of the extensions main
                     features below!
                   </span>
                 </CardText>
@@ -93,7 +95,7 @@ function App() {
                     color: "#fff",
                     height: "176px",
                     background:
-                      "url(http://www.getmdl.io/assets/demos/welcome_card.jpg)",
+                      "url(https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60)",
                   }}
                 >
                   Feature 1: Personal To-Do List
@@ -149,7 +151,7 @@ function App() {
                     color: "#fff",
                     height: "176px",
                     background:
-                      "url(http://www.getmdl.io/assets/demos/welcome_card.jpg)",
+                      "url(https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60)",
                   }}
                 >
                 Feature 2: Shared Class Lists
@@ -158,7 +160,7 @@ function App() {
                 <span>
                 The second feature of the browser extension contains a set of Class Lists along with their respective list items. What makes
                 this feature unique is that users can share entire lists with other users of the extension. Students and educators can
-                save links to calls for their online classes as well -- all in one place.
+                also save links to calls for their online classes as well -- all in one place.
                 </span>
               </CardText>
               </Card>
@@ -190,7 +192,7 @@ function App() {
           </Grid>
         </a>
 
-        <a name="classtasks">
+        <a name="pomodoro">
           <Grid className="demo-grid-2" scroll>
             <Cell col={12}>
               <Card
@@ -205,14 +207,18 @@ function App() {
                     color: "#fff",
                     height: "176px",
                     background:
-                      "url(http://www.getmdl.io/assets/demos/welcome_card.jpg)",
+                      "url(https://images.unsplash.com/photo-1513791053024-3b50799fdd7b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60)",
                   }}
                 >
-                  Feature 3: Pomodora Timer
+                  Feature 3: Pomodoro Timer
                 </CardTitle>
                 <CardText>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Mauris sagittis pellentesque lacus eleifend lacinia...
+                  <span>
+                  For those of us who struggle with time management, whether it be never completing the things we need to do or working too
+                  hard, Francesco Cirillo invented the world-famous Pomodoro technique. HomeRoom gives users access to a personalized Pomodoro
+                  timer. Work times and break periods can be customized. Users can also select the task they would like to work on from a
+                  simple dropdown list under the timer as shown below.
+                  </span>
                 </CardText>
               </Card>
             </Cell>
@@ -242,6 +248,52 @@ function App() {
             </Cell>
           </Grid>
         </a>
+        <a name="features">
+          <Grid scroll>
+            <Cell col={12}>
+              <Card
+                scroll
+                style={{
+                  width: "77em",
+                  margin: "auto",
+                }}
+              >
+                <CardTitle
+                  style={{
+                    color: "#fff",
+                    height: "176px",
+                    background:
+                      "url(https://images.unsplash.com/photo-1496449903678-68ddcb189a24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+                  }}
+                >
+                  Upcoming Features:
+                </CardTitle>
+                <CardText>
+                  <span>
+                    <dl>
+                      <dt>Website Blocker</dt>
+                      <dd>
+                        Users can block certain websites in their browser while trying to focus
+                        to the best of their ability.
+                      </dd>
+                      <dt>Web RTC Video Chat Integration</dt>
+                      <dd>
+                        Users will be able to participate in video calls with other users through our extension
+                        rather than running larger applications (Zoom, Microsoft Teams, etc.).
+                      </dd>
+                      <dt>Global Browser Extension Status</dt>
+                      <dd>
+                        Users will be able to access this extension from the browser of their choice. The
+                        extension will not only be accessible for Chrome users, but for those use Firefox 
+                        and other common browsers.
+                      </dd>
+                    </dl>
+                    </span>
+                </CardText>
+              </Card>
+            </Cell>
+          </Grid>
+          </a>
       </Content>
     </Layout>
   );
