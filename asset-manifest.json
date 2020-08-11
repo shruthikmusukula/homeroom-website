@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/productivity-extension-website/static/css/main.4f118929.chunk.css",
-    "main.js": "/productivity-extension-website/static/js/main.dc097324.chunk.js",
-    "main.js.map": "/productivity-extension-website/static/js/main.dc097324.chunk.js.map",
+    "main.js": "/productivity-extension-website/static/js/main.0da97bd7.chunk.js",
+    "main.js.map": "/productivity-extension-website/static/js/main.0da97bd7.chunk.js.map",
     "runtime-main.js": "/productivity-extension-website/static/js/runtime-main.17d62425.js",
     "runtime-main.js.map": "/productivity-extension-website/static/js/runtime-main.17d62425.js.map",
     "static/css/2.e4346227.chunk.css": "/productivity-extension-website/static/css/2.e4346227.chunk.css",
     "static/js/2.69cc956b.chunk.js": "/productivity-extension-website/static/js/2.69cc956b.chunk.js",
     "static/js/2.69cc956b.chunk.js.map": "/productivity-extension-website/static/js/2.69cc956b.chunk.js.map",
     "index.html": "/productivity-extension-website/index.html",
-    "precache-manifest.36ebf8c33d0e5c044d5aa1b303509854.js": "/productivity-extension-website/precache-manifest.36ebf8c33d0e5c044d5aa1b303509854.js",
+    "precache-manifest.950db723f2ddaa348e96d8c95de73967.js": "/productivity-extension-website/precache-manifest.950db723f2ddaa348e96d8c95de73967.js",
     "service-worker.js": "/productivity-extension-website/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/productivity-extension-website/static/css/2.e4346227.chunk.css.map",
     "static/css/main.4f118929.chunk.css.map": "/productivity-extension-website/static/css/main.4f118929.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.e4346227.chunk.css",
     "static/js/2.69cc956b.chunk.js",
     "static/css/main.4f118929.chunk.css",
-    "static/js/main.dc097324.chunk.js"
+    "static/js/main.0da97bd7.chunk.js"
   ]
 }
