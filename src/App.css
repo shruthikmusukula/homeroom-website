@@ -20,7 +20,11 @@
 }
 
 span {
-  font-size: 20px;
-  font-family: 'Roboto';
-  line-height: 30px
+  font-size: 18px;
+  font-family: 'Tahoma';
+  line-height: 30px;
+}
+
+.enter-homeroom {
+  text-align: center;
 }

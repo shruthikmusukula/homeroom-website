@@ -57,8 +57,9 @@ function App() {
               </CardTitle>
               <CardText >
                 <span>
-                During such a tumltuous time for the world, it can be difficult to manage the seemingly larger workload that we all face.
-                Introducing HomeRoom, a simple productivity extension that can help students of all ages and educators with developing the
+                During such a tumultuous time for the world, it can be difficult to manage the seemingly larger workload that we all face.
+                <h3 class="enter-homeroom">Enter HomeRoom</h3>
+                A simple productivity extension that can help students of all ages and educators with developing the
                 simple skill of time management. Many existing platforms, such as Trello, contain complex user interfaces. HomeRoom solves this 
                 issue by coming in the form of a Chrome Extension, allowing for ease of access and a simple user interface.
                 </span>
@@ -86,9 +87,7 @@ function App() {
                 Feature 1: Personal To-Do List
               </CardTitle>
               <CardText>
-                <span>
-                During such a tumltuous time for the world, 
-                </span>
+                During such a tumultuous time for the world, 
               </CardText>
             </Card>
           </Cell>
