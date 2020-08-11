@@ -1,6 +1,7 @@
 # HomeRoom Chrome Extension Project Website Info
 
 [HomeRoom Website](https://shruthikmusukula.github.io/productivity-extension-website/)
+[HomeRoom Source Code](https://github.com/mchow101/productivity-extension)
 
 <h2><strong>Description</strong></h2>
 A simple productivity extension that can help students and educators of all ages with developing the simple skill of time management. 
