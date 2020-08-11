@@ -18,3 +18,9 @@
   margin: "auto";
   margin-top: "50px";
 }
+
+span {
+  font-size: 20px;
+  font-family: 'Roboto';
+  line-height: 30px
+}

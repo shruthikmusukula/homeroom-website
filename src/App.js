@@ -53,11 +53,14 @@ function App() {
                     "url(https://images.unsplash.com/photo-1540350394557-8d14678e7f91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80)",
                 }}
               >
-                To Do List
+                HomeRoom
               </CardTitle>
-              <CardText>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-                sagittis pellentesque lacus eleifend lacinia...
+              <CardText >
+                  <span>
+                During such a tumltuous time for the world, it can be difficult to manage the seemingly larger workload that we all face.
+                Introducing HomeRoom, a simple productivity extension that can help students of all ages and educators with developing the
+                simple skill of time management. Many existing platforms, such as Trello,
+                </span>
               </CardText>
             </Card>
           </Cell>
@@ -79,11 +82,10 @@ function App() {
                     "url(http://www.getmdl.io/assets/demos/welcome_card.jpg)",
                 }}
               >
-                To Do List
+                Feature 1: Personal To-Do List
               </CardTitle>
               <CardText>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-                sagittis pellentesque lacus eleifend lacinia...
+                During such a tumltuous time for the world, 
               </CardText>
             </Card>
           </Cell>
