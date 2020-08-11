@@ -285,7 +285,7 @@ function App() {
                       <dt>Global Browser Extension Status</dt>
                       <dd>
                         Users will be able to access this extension from the browser of their choice. The
-                        extension will not only be accessible for Chrome users, but for those use Firefox 
+                        extension will not only be accessible for Chrome users, but for those using Firefox 
                         and other common browsers.
                       </dd>
                     </dl>
