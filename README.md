@@ -25,4 +25,4 @@ The website was created using React MDL Components and hosted through GitHub Pag
 <img src="https://github.com/shruthikmusukula/productivity-extension-website/blob/master/images/Screen%20Shot%202020-08-10%20at%209.37.39%20PM.png">
 
 <h2><strong>Additional Resources</strong></h2>
-[GitHub Pages React App Deployment](https://github.com/willsinn/myportfoliosite#github-pages)
+<a href="https://github.com/willsinn/myportfoliosite#github-pages">GitHub Pages React App Deployment</a>
