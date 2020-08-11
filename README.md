@@ -16,6 +16,9 @@ The website was created using React MDL Components and hosted through GitHub Pag
   <li>React Native</li>
   <li>React Material Design Lite</li>
   <li>NodeJS</li>
-  </ol>
+</ol>
 
-<h2><strong>Application GUI:</strong></h2> 
+<h2><strong>Application GUI:</strong></h2>
+<img src="https://github.com/shruthikmusukula/productivity-extension-website/blob/master/images/Screen%20Shot%202020-08-10%20at%209.37.26%20PM.png">
+<img src="https://github.com/shruthikmusukula/productivity-extension-website/blob/master/images/Screen%20Shot%202020-08-10%20at%209.38.12%20PM.png">
+<img src="https://github.com/shruthikmusukula/productivity-extension-website/blob/master/images/Screen%20Shot%202020-08-10%20at%209.37.39%20PM.png">
