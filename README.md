@@ -3,7 +3,7 @@
 [HomeRoom Website](https://shruthikmusukula.github.io/productivity-extension-website/)
 
 <h2><strong>Description</strong></h2>
-A simple productivity extension that can help students of all ages and educators with developing the simple skill of time management. 
+A simple productivity extension that can help students and educators of all ages with developing the simple skill of time management. 
 
 <h2><strong>Purpose</strong></h2>
 The project website was developed as a user guide for the extension that is being developed for Google Chrome, as our project for HackIllinois 2020. 
