@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82b1abca8604af43b9e7894cc2f02c00",
+    "revision": "b813f6d3a863498f29f798ad3ee50c5c",
     "url": "/productivity-extension-website/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/productivity-extension-website/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "d4faa899a6a82db7edc4",
-    "url": "/productivity-extension-website/static/css/main.3fa1273d.chunk.css"
+    "revision": "574944406e64fd199a31",
+    "url": "/productivity-extension-website/static/css/main.4f118929.chunk.css"
   },
   {
     "revision": "1647c78d0b99617091c7",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/productivity-extension-website/static/js/2.69cc956b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4faa899a6a82db7edc4",
-    "url": "/productivity-extension-website/static/js/main.bb6efead.chunk.js"
+    "revision": "574944406e64fd199a31",
+    "url": "/productivity-extension-website/static/js/main.64c2c3da.chunk.js"
   },
   {
     "revision": "0e4c5f1c42af495d3448",
