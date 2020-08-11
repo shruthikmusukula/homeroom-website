@@ -86,7 +86,9 @@ function App() {
                 Feature 1: Personal To-Do List
               </CardTitle>
               <CardText>
+                <span>
                 During such a tumltuous time for the world, 
+                </span>
               </CardText>
             </Card>
           </Cell>
