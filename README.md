@@ -8,4 +8,11 @@ Project website was developed as a user guide for the extention that is being de
 <h2><strong>Implementation</strong></h2>
 The website was created using React MDL Components and hosted through GitHub Pages. 
 
+<h2>Technologies Used</h2>
+<ol> 
+  <li>React Native</li>
+  <li>React Material Design Lite</li>
+  <li>NodeJS</li>
+  </ol>
+
 <h2><strong>Application GUI:</strong></h2> 
