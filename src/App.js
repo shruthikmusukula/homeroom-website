@@ -66,15 +66,15 @@ function App() {
                     difficult to manage the seemingly larger workload that we
                     all face.
                     <h3>Enter HomeRoom</h3>A simple
-                    productivity extension that can help students of all ages
-                    and educators with developing the simple skill of time
+                    productivity extension that can help students and educators of all 
+                    ages with developing the simple skill of time
                     management. Many existing platforms, such as Trello, contain
                     complex user interfaces. HomeRoom solves this issue by
                     coming in the form of a Chrome Extension, allowing for ease
                     of access. All your data can be connected with your Google
                     account. The extension will be live by Monday, August 17th on
-                    the Chrome Extension store. Feel free to explore some of the extensions main
-                    features below!
+                    the Chrome Extension store. Scroll below to explore some of HomeRoom's main
+                    features!
                   </span>
                 </CardText>
               </Card>
@@ -104,7 +104,7 @@ function App() {
               <CardText>
                 <span>
                 The first feature of the browser extension includes a main homepage which contains a personal to-do list. 
-                Users can add entire lists and proper list-items to their task homepage. The homepage also includes lists 
+                Users can add entire lists and individual list-items to their task homepage. The homepage also includes lists 
                 and items from the following Class List feature.
                 </span>
               </CardText>
