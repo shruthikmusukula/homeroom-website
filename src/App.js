@@ -61,8 +61,8 @@ function App() {
                 <h3 class="enter-homeroom">Enter HomeRoom</h3>
                 A simple productivity extension that can help students of all ages and educators with developing the
                 simple skill of time management. Many existing platforms, such as Trello, contain complex user interfaces. HomeRoom solves this 
-                issue by coming in the form of a Chrome Extension, allowing for ease of access. 
-                Feel free to explore some of the extensions main features below!
+                issue by coming in the form of a Chrome Extension, allowing for ease of access. All your data can be connected with your Google
+                account through an OAuth2 implementation. Feel free to explore some of the extensions main features below!
                 </span>
               </CardText>
             </Card>
@@ -89,7 +89,8 @@ function App() {
               </CardTitle>
               <CardText>
                 <span>
-                During such a tumultuous time for the world,
+                The first feature of the browser extension includes a main homepage which contains a personal to-do list. Users can add entire lists and
+                proper list-items to their task homepage. The homepage also includes lists and items from the following Class List feature.
                 </span>
               </CardText>
             </Card>
@@ -136,10 +137,14 @@ function App() {
                     "url(http://www.getmdl.io/assets/demos/welcome_card.jpg)",
                 }}
               >
-                To Do List
+                Feature 2: Shared Class Lists
               </CardTitle>
               <CardText>
-                During such a tumultuous time in our educational or professional careers, it can sometimes be difficult
+                <span>
+                The second feature of the browser extension contains a set of Class Lists along with their respective list items. What makes
+                this feature unique is that users can share entire lists with other users of the extension. Students and educators can
+                save links to calls for their online classes as well -- all in one place.
+                </span>
               </CardText>
             </Card>
           </Cell>
