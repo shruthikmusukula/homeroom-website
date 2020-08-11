@@ -27,6 +27,7 @@ import {
 function App() {
   return (
     <Layout>
+      // Header
       <Header transparent title="Homeroom" class="header-color">
         <Navigation>
           <a href="#">About</a>
