@@ -48,8 +48,17 @@ function App() {
                   margin: "auto",
                 }}
               >
+                <CardTitle
+                  style={{
+                    color: "#fff",
+                    height: "176px",
+                    background:
+                      "url(https://images.unsplash.com/photo-1540350394557-8d14678e7f91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80)",
+                  }}
+                >
+                  HomeRoom
+                </CardTitle>
                 <CardText>
-                  <h3 class="enter-homeroom">HomeRoom</h3>
                   <span>
                     During such a tumultuous time for the world, it can be
                     difficult to manage the seemingly larger workload that we
@@ -60,14 +69,15 @@ function App() {
                     management. Many existing platforms, such as Trello, contain
                     complex user interfaces. HomeRoom solves this issue by
                     coming in the form of a Chrome Extension, allowing for ease
-                    of access and a simple user interface.
+                    of access. All your data can be connected with your Google
+                    account Feel free to explore some of the extensions main
+                    features below!
                   </span>
                 </CardText>
               </Card>
             </Cell>
           </Grid>
         </a>
-
         <a name="todo">
           <Grid className="demo-grid-2" scroll>
             <Cell col={12}>
@@ -80,14 +90,17 @@ function App() {
               >
                 <CardTitle
                   style={{
-                    width: "77em",
-                    margin: "auto",
+                    color: "#fff",
+                    height: "176px",
+                    background:
+                      "url(http://www.getmdl.io/assets/demos/welcome_card.jpg)",
                   }}
                 >
-                  Feature 1: Personal To-Do List
+                  Feature 2: Class List
                 </CardTitle>
                 <CardText>
-                  During such a tumultuous time for the world,
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Mauris sagittis pellentesque lacus eleifend lacinia...
                 </CardText>
               </Card>
             </Cell>
@@ -98,7 +111,7 @@ function App() {
                   height: "300px",
                   width: "400px",
                   background:
-                    "url(https://media.discordapp.net/attachments/741774580204437589/742552304556834896/unknown.png) center / cover",
+                    "url(https://cdn.discordapp.com/attachments/741774580204437589/742552304556834896/unknown.png) center / cover",
                   margin: "auto",
                 }}
               ></Card>
@@ -110,7 +123,7 @@ function App() {
                   height: "300px",
                   width: "400px",
                   background:
-                    "url(https://media.discordapp.net/attachments/741774580204437589/742552777976316024/unknown.png) center / cover",
+                    "url(https://cdn.discordapp.com/attachments/741774580204437589/742552777976316024/unknown.png) center / cover",
                   margin: "auto",
                 }}
               ></Card>
@@ -201,10 +214,10 @@ function App() {
               <Card
                 shadow={0}
                 style={{
-                  height: "300px",
+                  height: "600px",
                   width: "400px",
                   background:
-                    "url(https://cdn.discordapp.com/attachments/741774580204437589/742552373167259708/unknown.png) center / cover",
+                    "url(https://cdn.discordapp.com/attachments/741774580204437589/742552467853803531/unknown.png) center / cover",
                   margin: "auto",
                 }}
               ></Card>
@@ -213,10 +226,10 @@ function App() {
               <Card
                 shadow={0}
                 style={{
-                  height: "300px",
+                  height: "600px",
                   width: "400px",
                   background:
-                    "url(https://cdn.discordapp.com/attachments/741774580204437589/742552866064957460/unknown.png) center / cover",
+                    "url(https://cdn.discordapp.com/attachments/741774580204437589/742552934403014656/unknown.png) center / cover",
                   margin: "auto",
                 }}
               ></Card>
