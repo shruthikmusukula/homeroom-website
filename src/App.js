@@ -35,7 +35,8 @@ function App() {
             <a href="#classtasks">Class Tasks</a>
             <a href="#pomodoro">Pomodoro Timer</a>
             <a href="#features">Upcoming Features</a>
-            <a href="https://github.com/shruthikmusukula/productivity-extension-website">Github Code</a>
+            <a href="https://github.com/shruthikmusukula/productivity-extension-website">Website Code</a>
+            <a href="https://github.com/mchow101/productivity-extension"> Extension Code</a>
           </Navigation>
         </Header>
 
