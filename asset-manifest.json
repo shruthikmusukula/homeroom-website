@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/productivity-extension-website/static/css/main.3fa1273d.chunk.css",
+    "main.js": "/productivity-extension-website/static/js/main.bb6efead.chunk.js",
+    "main.js.map": "/productivity-extension-website/static/js/main.bb6efead.chunk.js.map",
+    "runtime-main.js": "/productivity-extension-website/static/js/runtime-main.17d62425.js",
+    "runtime-main.js.map": "/productivity-extension-website/static/js/runtime-main.17d62425.js.map",
+    "static/css/2.e4346227.chunk.css": "/productivity-extension-website/static/css/2.e4346227.chunk.css",
+    "static/js/2.69cc956b.chunk.js": "/productivity-extension-website/static/js/2.69cc956b.chunk.js",
+    "static/js/2.69cc956b.chunk.js.map": "/productivity-extension-website/static/js/2.69cc956b.chunk.js.map",
+    "index.html": "/productivity-extension-website/index.html",
+    "precache-manifest.ea7c4fd564b10d448c422ee7e3232453.js": "/productivity-extension-website/precache-manifest.ea7c4fd564b10d448c422ee7e3232453.js",
+    "service-worker.js": "/productivity-extension-website/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/productivity-extension-website/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.3fa1273d.chunk.css.map": "/productivity-extension-website/static/css/main.3fa1273d.chunk.css.map",
+    "static/js/2.69cc956b.chunk.js.LICENSE.txt": "/productivity-extension-website/static/js/2.69cc956b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/productivity-extension-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17d62425.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.69cc956b.chunk.js",
+    "static/css/main.3fa1273d.chunk.css",
+    "static/js/main.bb6efead.chunk.js"
+  ]
+}
