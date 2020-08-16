@@ -10,10 +10,10 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-mdl": "^2.1.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^3.4.2",
     "typescript": "^3.9.7"
   },
-  "homepage": "https://shruthikmusukula.github.io/productivity-extension-website",
+  "homepage": "https://shruthikmusukula.github.io/homeroom",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
