@@ -13,7 +13,7 @@
     "react-scripts": "^3.4.2",
     "typescript": "^3.9.7"
   },
-  "homepage": "https://shruthikmusukula.github.io/homeroom",
+  "homepage": "https://shruthikmusukula.github.io/homeroom-website",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
